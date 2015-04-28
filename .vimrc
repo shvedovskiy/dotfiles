@@ -25,16 +25,15 @@ filetype plugin indent on
 " :PluginClean      - confirms removal of unused plugins; append `!` to auto-approve removal
 
 set shell=/bin/bash
-runtime macros/matchit.vim
-
 let $PATH='/usr/local/bin:' . $PATH
 
 set relativenumber
 set bs=indent,eol,start
 set visualbell
 set smartindent
+set smarttab
 set ttyfast
-set lazyredraw
+set lz
 set backspace=2   " Backspace deletes like most programs in insert mode
 set nobackup
 set nowritebackup
