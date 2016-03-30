@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Anaconda",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"CSScomb",
+		"Djaneiro",
+		"Emmet",
+		"Emmet Css Snippets",
+		"GitSavvy",
+		"LESS",
+		"LiveReload",
+		"Markdown Preview",
+		"Minifier",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Tag",
+		"Theme - Soda"
+	]
+}

@@ -1,0 +1,90 @@
+{
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Monokai (SL).tmTheme",
+	"detect_indentation": true,
+	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"file_exclude_patterns":
+	[
+		"*.DS_Store",
+		"*.pyc",
+		"*.git"
+	],
+	"find_selected_text": true,
+	"flatland_square_tabs": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+	],
+	"font_face": "Menlo",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"ActionScript",
+		"Alignment",
+		"AppleScript",
+		"ASP",
+		"C#",
+		"Clojure",
+		"D",
+		"Erlang",
+		"GitSavvy",
+		"Go",
+		"Graphviz",
+		"Groovy",
+		"Haskell",
+		"Lisp",
+		"LiveReload",
+		"Lua",
+		"Matlab",
+		"Objective-C",
+		"OCaml",
+		"Pascal",
+		"Perl",
+		"PHP",
+		"R",
+		"Rails",
+		"Ruby",
+		"Scala",
+		"SublimeCodeIntel",
+		"TCL",
+		"Vintage",
+		"YAML"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"match_brackets": true,
+	"match_brackets_angle": false,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"new_window_settings":
+	{
+		"hide_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"remember_open_files": true,
+	"remember_open_folders": true,
+	"save_on_focus_lost": true,
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"wide_caret": true,
+	"word_wrap": true
+}
